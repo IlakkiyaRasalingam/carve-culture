@@ -98,6 +98,7 @@ a:focus {
     position: relative;
     transition: .5s;
     z-index: 999;
+    text-align: left;
 }
 
 .navbar.nav-sticky {
@@ -1923,6 +1924,7 @@ a:focus {
 
 .footer .footer-social a:last-child {
     margin: 0;
+   
 }
 
 .footer .footer-newsletter .form {
